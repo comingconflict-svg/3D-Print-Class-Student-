@@ -1,6 +1,8 @@
 # Teen 3D Printing Class — Student Hub
 
 Open this page every Friday before you start.
+The lessons may not appear in order so confirm you are on the correct lesson for the day. 
+If you are having trouble finding the correct lesson please ask the teacher.
 
 **Printer:** QIDI Q2  
 **Slicer:** OrcaSlicer  
