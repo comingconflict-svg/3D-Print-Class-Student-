@@ -23,7 +23,7 @@ YYYY-MM-DD_YourName_Strong_v1.stl
 ## Preview check
 - [ ] Flat face on the plate
 - [ ] No paper-thin necks
-- [ ] Still the class filament profile on the Q2
+- [ ] Still the class filament profile on the CORE One
 
 ## Optional video
 Next ShakeN'Make video (video 7): How To Split Objects in Tinkercad  

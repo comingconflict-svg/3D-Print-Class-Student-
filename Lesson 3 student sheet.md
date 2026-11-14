@@ -13,7 +13,7 @@ Get this file from the student repo.
 Move, rotate, scale, align, group, solid vs hole, workplane.
 
 ## Build this
-A name tag or keychain that could print on the Q2.
+A name tag or keychain that could print on the CORE One.
 - 70 × 35 × 5 mm or smaller
 - 3–5 mm thick
 - 5 mm hole

@@ -4,10 +4,10 @@ Open this page every Friday before you start.
 The lessons may not appear in order so confirm you are on the correct lesson for the day. 
 If you are having trouble finding the correct lesson please ask the teacher.
 
-**Printer:** QIDI Q2  
-**Slicer:** OrcaSlicer  
+**Printer:** Prusa CORE One  
+**Slicer:** PrusaSlicer  
 **CAD:** Tinkercad  
-**Models:** MakerWorld and Printables  
+**Models:** Printables and MakerWorld  
 **Filament:** PLA or PETG only, unless a teacher says otherwise
 
 Click this lesson’s file in the repo and follow it.

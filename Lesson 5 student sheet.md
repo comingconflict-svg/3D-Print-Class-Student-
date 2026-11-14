@@ -19,11 +19,14 @@ Object: ____________________
 I will change: ____________________  
 I will not change: ____________________
 
-## Orca compare
+## PrusaSlicer compare
+Slice the same model more than once. Change one setting, click Slice now, and write the new time and grams.
 - 15% infill time / grams: __________ / __________
 - 30% infill time / grams: __________ / __________
-- 2 walls time / grams: __________ / __________
-- 3 walls time / grams: __________ / __________
+- 2 perimeters (walls) time / grams: __________ / __________
+- 3 perimeters (walls) time / grams: __________ / __________
+
+Infill is in the right panel on the Plater. Perimeters are in Print Settings > Layers and perimeters.
 
 ## File name
 YYYY-MM-DD_YourName_Project_v2.stl

@@ -3,7 +3,7 @@
 Open this file from the student repo.
 
 ## Today
-- Learn the QIDI Q2
+- Learn the Prusa CORE One
 - Learn class words
 - Learn how to get files from GitHub
 
@@ -24,17 +24,17 @@ If you are lost, go back to the student README.
 
 ## Machine checklist
 - [ ] Touchscreen
-- [ ] PEI plate
+- [ ] Removable PEI spring-steel sheet
 - [ ] Bed
 - [ ] Toolhead
-- [ ] Extruder
+- [ ] Nextruder
 - [ ] Hotend
 - [ ] Nozzle
 - [ ] Belts
 - [ ] Z lead screws
 
 ## Pipeline
-GitHub student files → design or download → STL / 3MF → OrcaSlicer → G-code → Q2 → part
+GitHub student files → design or download → STL / 3MF → PrusaSlicer → G-code / bgcode → CORE One → part
 
 ## Safety
 Do not touch the nozzle, hot bed, or moving belts. If a print looks wrong, say pause.

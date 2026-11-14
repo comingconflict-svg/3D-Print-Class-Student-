@@ -22,7 +22,7 @@ I will know it worked if ____________________
 ## Limits
 - [ ] Longest side 90 mm or less
 - [ ] I think it can print in under 3 hours
-- [ ] Class filament profile on the Q2
+- [ ] Class filament profile on the CORE One
 
 ## Started in class
 - [ ] Model exists in Tinkercad or as a remix

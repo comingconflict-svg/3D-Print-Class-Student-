@@ -12,7 +12,7 @@ Tinkercad is free 3D design in a web browser. You drag simple shapes onto a flat
 - Hole — a cookie cutter that subtracts when you Group
 - Align — line shapes up
 - Group — glue solids together, or cut holes
-- Export — download STL for OrcaSlicer
+- Export — download STL for PrusaSlicer
 
 ## Watch this first
 ShakeN'Make, video 1: How To Get Started With Tinkercad  

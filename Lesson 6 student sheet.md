@@ -15,7 +15,7 @@ Number I typed in Tinkercad: __________ mm
 - [ ] I typed sizes instead of only dragging
 - [ ] It has a flat face for the bed
 - [ ] Walls are 2 mm or thicker
-- [ ] I did not scale it randomly in Orca
+- [ ] I did not scale it randomly in PrusaSlicer
 - [ ] Preview looks like the object I meant
 
 ## File name
